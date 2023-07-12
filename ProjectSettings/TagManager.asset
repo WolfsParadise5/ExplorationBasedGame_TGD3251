@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - OptionTrigger
+  - StreetLight
   layers:
   - Default
   - TransparentFX
