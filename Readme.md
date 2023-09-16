@@ -1,11 +1,11 @@
-PersoManage
+## PersoManage
 
-Emnbark into a world as a person that have just moved into a new city, with a fixed amount of money only available, how would you get by around the set city you're in
+Embark into a world as a person that has just moved into a new city, with a fixed amount of money only available, how would you get by around the set city you're in
 
-This that could be done:
+This could be done:
 -> Explore the map
--> Go to different restraunts and shops
--> Rent properties
+-> Go to different restaurants and shops
+-> Rent Properties
 
 Things are still broken:
 -> Food Selection
